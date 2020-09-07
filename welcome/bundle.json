@@ -1,0 +1,16 @@
+{
+    "id":"7aa9bd09-9c16-42ca-87fe-b1a627c8ab99",
+    "author":"",
+    "widgets":[
+        {
+            "id":"welcome",
+            "title":"welcome",
+            "description":"A sample widget"
+        }
+    ],
+    "sidebarLinks":[
+        {
+            "id":"welcomeLink"
+        }
+    ]
+}
