@@ -1,16 +1,14 @@
 {
     "id":"7aa9bd09-9c16-42ca-87fe-b1a627c8ab99",
-    "author":"",
+    "author":"eutech",
     "widgets":[
         {
             "id":"welcome",
-            "title":"welcome",
-            "description":"A sample widget"
+            "title":"Welcome Widget",
+            "description":"A sample widget showing how UXP works."
         }
     ],
     "sidebarLinks":[
-        {
-            "id":"welcomeLink"
-        }
+       
     ]
 }
